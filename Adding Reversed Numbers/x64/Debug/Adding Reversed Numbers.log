@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\admin\source\repos\Adding Reversed Numbers\main.c(35,9): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\Adding Reversed Numbers\main.c(18,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\Adding Reversed Numbers\main.c(23,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Adding Reversed Numbers.vcxproj -> C:\Users\admin\source\repos\Adding Reversed Numbers\x64\Debug\Adding Reversed Numbers.exe

@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\admin\source\repos\Aggressive cows\main.c(49,10): warning C4477: "scanf": в строке форматирования "%lld" требуется аргумент типа "__int64 *", но вариативный аргумент "1" имеет тип "int *"
+C:\Users\admin\source\repos\Aggressive cows\main.c(49,10): message : рекомендуется использовать "%d" в строке форматирования
+C:\Users\admin\source\repos\Aggressive cows\main.c(49,10): message : рекомендуется использовать "%I32d" в строке форматирования
+  Aggressive cows.vcxproj -> C:\Users\admin\source\repos\Aggressive cows\x64\Debug\Aggressive cows.exe
