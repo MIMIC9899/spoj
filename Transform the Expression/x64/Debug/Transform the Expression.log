@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\admin\source\repos\Transform the Expression\main.c(43,55): warning C4020: prior: слишком много фактических параметров
+C:\Users\admin\source\repos\Transform the Expression\main.c(43,20): warning C4473: "printf": передано недостаточно аргументов для строки формата
+C:\Users\admin\source\repos\Transform the Expression\main.c(43,20): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\admin\source\repos\Transform the Expression\main.c(43,20): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+  Transform the Expression.vcxproj -> C:\Users\admin\source\repos\Transform the Expression\x64\Debug\Transform the Expression.exe

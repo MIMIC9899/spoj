@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\admin\source\repos\Factorial\main.c(17,8): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+  Factorial.vcxproj -> C:\Users\admin\source\repos\Factorial\x64\Debug\Factorial.exe
